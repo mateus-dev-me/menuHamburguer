@@ -24,7 +24,7 @@ Acesse a página: [**Menu de Hamburguer**](https://mateus-sousa23.github.io/menu
 
 <img src="./readme-files/menu-hamburguer1.png" width="720px"/>
 <div>
-  <img src="./readme-files/menu-hamburguer1.png" width="220px"/>
+  <img src="./readme-files/menu-hamburguer2.png" width="220px"/>
   <img src="./readme-files/menu-hamburguer-3.png" width="220px"/>
  </div>
 
