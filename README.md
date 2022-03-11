@@ -20,7 +20,7 @@ As tecnologias usadas foram:
 
 ## Preview 💻
 
-Acesse a página: [**Menu de Hamburguer**](https://mateus-sousa23.github.io/menu-hamburguer/)
+Acesse a página: [**Menu de Hamburguer**](https://mateus-sousa23.github.io/menuHamburguer/)
 
 <img src="./readme-files/menu-hamburguer1.png" width="720px"/>
 <div>
